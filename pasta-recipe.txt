@@ -1,0 +1,8 @@
+Ingredients:
+ - pasta
+
+Directions:
+ 1. Add water to the pasta
+ 2. Put it inside the microwave 
+ 3. Done
+ 
